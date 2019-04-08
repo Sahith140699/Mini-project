@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "676378332654",
+    "firebase_url": "https://mini-project-security.firebaseio.com",
+    "project_id": "mini-project-security",
+    "storage_bucket": "mini-project-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676378332654:android:363a1eb2e8b73735",
+        "android_client_info": {
+          "package_name": "com.example.firstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676378332654-9upsbl0olbc25a5t5bac4pm2fjhof7t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapplication",
+            "certificate_hash": "60b03d3cb1d043719d11b894b7034ecdc88ba235"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifrM-qQHJpEUasv5Vgacni5k9iqJPZxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676378332654-1n8n9t3ca0h1ec3b4it3do2bsbfucu50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
